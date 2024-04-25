@@ -18,4 +18,10 @@ The bank Customer Data
 In this activity we use the BankCustomerDAta in order to calculate for the accuracy, confussion matrix, and classification matrix and in order to calculate all of that we also uses the information that the dataset give including the age, balance, duration, campaign and more.
 
 The Online Foods
+In this activity we are task to calculate for the review of the customer using their information, i use the age to know its impact on the feedback, there are more data that have been use in order to calculate the precision, the matrix scores and f1 score.
+
+The Netflix Userbase
+In this activity we graph the age distribution and show the monthly revenue in order to know the impact of the information that the user or subscriber gives to calculate using the logistic regression, i also calculate for the accuracy, precision, f1 score and confusion matrix again.
+
+The Titanic Data
 
