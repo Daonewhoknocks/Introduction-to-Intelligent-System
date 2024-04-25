@@ -15,6 +15,7 @@ This is my compilation of Activies and projects, you can see below the table of 
 9. [Untitled6](https://github.com/Daonewhoknocks/Introduction-to-Intelligent-System/blob/main/Untitled6.ipynb)
 10. [Untitled10](https://github.com/Daonewhoknocks/Introduction-to-Intelligent-System/blob/main/Untitled10.ipynb)
 
+
 **Details**
 
 The Students' Grades
