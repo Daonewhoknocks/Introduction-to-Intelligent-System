@@ -4,11 +4,11 @@ Activies and Project compilations
 This is my compilation of Activies and projects, you can see below the table of content which you may click in order to be sent to the code that you read. You'll find some details about the project and a conclusion
 
 **Table of Content**
-1. [EXER4 The Students' Grades](https://colab.research.google.com/drive/1VghP4wxI0sEfrTB78CJvt0h08rQM_OOj)
-2. EXER5 The Bank Customer Data
+1. [EXER4 The Students' Grades](https://github.com/Daonewhoknocks/Introduction-to-Intelligent-System/blob/main/2A_MANGULABNAN_EXER4.ipynb)
+2. [EXER5 The Bank Customer Data](https://github.com/Daonewhoknocks/Introduction-to-Intelligent-System/blob/main/2A_MANGULABNAN_EXER5.ipynb)
 3. [EXER6 The Online Foods](https://github.com/Daonewhoknocks/Introduction-to-Intelligent-System/blob/main/2A-MANGULABNAN-EXER6.ipynb)
-4. EXER7 The Netflix Userbase
-5. MIDTERM The Titanic Data
+4. [EXER7 The Netflix Userbase](https://github.com/Daonewhoknocks/Introduction-to-Intelligent-System/blob/main/2A-MANGULABNAN-EXER7.ipynb)
+5. [MIDTERM The Titanic Data](https://github.com/Daonewhoknocks/Introduction-to-Intelligent-System/blob/main/2A-MANGULABNAN-MIDTERM.ipynb)
 
 **Details**
 The Students' Grades
