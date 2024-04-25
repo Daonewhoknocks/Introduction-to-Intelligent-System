@@ -9,6 +9,11 @@ This is my compilation of Activies and projects, you can see below the table of 
 3. [EXER6 The Online Foods](https://github.com/Daonewhoknocks/Introduction-to-Intelligent-System/blob/main/2A-MANGULABNAN-EXER6.ipynb)
 4. [EXER7 The Netflix Userbase](https://github.com/Daonewhoknocks/Introduction-to-Intelligent-System/blob/main/2A-MANGULABNAN-EXER7.ipynb)
 5. [MIDTERM The Titanic Data](https://github.com/Daonewhoknocks/Introduction-to-Intelligent-System/blob/main/2A-MANGULABNAN-MIDTERM.ipynb)
+6. [Untitled1](https://github.com/Daonewhoknocks/Introduction-to-Intelligent-System/blob/main/Untitled1.ipynb)
+7. [Untitled4](https://github.com/Daonewhoknocks/Introduction-to-Intelligent-System/blob/main/Untitled4.ipynb)
+8. [Untitled5](https://github.com/Daonewhoknocks/Introduction-to-Intelligent-System/blob/main/Untitled5.ipynb)
+9. [Untitled6](https://github.com/Daonewhoknocks/Introduction-to-Intelligent-System/blob/main/Untitled6.ipynb)
+10. [Untitled10](https://github.com/Daonewhoknocks/Introduction-to-Intelligent-System/blob/main/Untitled10.ipynb)
 
 **Details**
 
@@ -31,3 +36,5 @@ In this activity we graph the age distribution and show the monthly revenue in o
 **The Titanic Data**
 
 This task is a midterm task that uses all you've learn from the previous algorithms, we are given many different dataset but i choose the titanic dataset. This task is about calculating the survivability of the passenger from the titanic, it uses linear regression and logistic regression, it shows multiple graphs about the information of the passenger.
+
+The other untitled files are some practice code, linear regression, logistic regression, some graphs and images to show how the code improve.
