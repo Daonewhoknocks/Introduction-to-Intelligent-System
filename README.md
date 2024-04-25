@@ -6,7 +6,7 @@ This is my compilation of Activies and projects, you can see below the table of 
 **Table of Content**
 1. [EXER4 The Students' Grades](https://colab.research.google.com/drive/1VghP4wxI0sEfrTB78CJvt0h08rQM_OOj)
 2. EXER5 The Bank Customer Data
-3. EXER6 The Online Foods
+3. [EXER6 The Online Foods](https://github.com/Daonewhoknocks/Introduction-to-Intelligent-System/blob/main/2A-MANGULABNAN-EXER6.ipynb)
 4. EXER7 The Netflix Userbase
 5. MIDTERM The Titanic Data
 
